@@ -8,3 +8,5 @@
   path.config: "/usr/share/logstash/pipeline/generic-json"
 - pipeline.id: netflow
   path.config: "/usr/share/logstash/pipeline/netflow"
+- pipeline.id: elastic
+  path.config: "/usr/share/logstash/pipeline/elastic"
